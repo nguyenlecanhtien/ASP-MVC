@@ -77,3 +77,9 @@ D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\Web
 D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\WebSiteBanHang_MVC_2120110131.csproj.CopyComplete
 D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\WebSiteBanHang_MVC_2120110131.dll
 D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\WebSiteBanHang_MVC_2120110131.pdb
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\bin\EntityFramework.dll
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\bin\EntityFramework.SqlServer.dll
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\bin\EntityFramework.xml
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\bin\EntityFramework.SqlServer.xml
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\WebSiteBanHang_MVC_2120110131.Properties.Resources.resources
+D:\ASP\WebSiteBanHang_MVC_2120110131\WebSiteBanHang_MVC_2120110131\obj\Debug\WebSiteBanHang_MVC_2120110131.csproj.GenerateResource.cache
